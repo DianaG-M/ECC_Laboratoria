@@ -45,10 +45,11 @@
 
 
 2. Entra a https://developer.apple.com/videos/wwdc2019/ y contesta:
-    i. ¿Qué es la WWDC, e investiga sobre la beca para estudiantes?
-        Por sus siglas en inglés Worldwide Developers Conference (Conferencia Mundial de Desarrolladores) es una conferencia que se celebra anualmente desde el año 1983 en California en EEUU por la Compañia Apple Inc. En las conferencias Apple suele mostrar su nuevo software, hardware y tecnologías orientadas a Desarrolladores de Software, esta conferencia solo es de Developers Conference.
+    i. ¿Qué es la WWDC, e investiga sobre la beca para estudiantes?     
+    
+    Por sus siglas en inglés Worldwide Developers Conference (Conferencia Mundial de Desarrolladores) es una conferencia que se celebra anualmente desde el año 1983 en California en EEUU por la Compañia Apple Inc. En las conferencias Apple suele mostrar su nuevo software, hardware y tecnologías orientadas a Desarrolladores de Software, esta conferencia solo es de Developers Conference.
 
-        Para conseguir tu pasaporte a la WWDC deberás completar una serie de tareas que Apple explica en su web y ellos se encargarán de seleccionar a los desarrolladores que conseguirán no solo un billete para la WWDC 19, también un año de uso gratuito del Apple Developer Program.
+    Para conseguir tu pasaporte a la WWDC deberás completar una serie de tareas que Apple explica en su web y ellos se encargarán de seleccionar a los desarrolladores que conseguirán no solo un billete para la WWDC 19, también un año de uso gratuito del Apple Developer Program.
         Pasos para conseguir una beca de estudiante para la WWDC 19:
             - Crear una aplicación o juego Swift Playground de forma individual, no vale hacerlo en grupo.
             - Debes ser mayor de 16 años si eres de la Unión Europea.
@@ -61,4 +62,23 @@
     - Diseño para condiciones adversas de red y temperatura.
 
 
-3. 
+3. Entra a https://developer.apple.com/design/human-interface-guidelines/ y contesta:
+
+    i. ¿Qué son las pautas de interfaz humana?    
+Las Guías de Interfaz Humana ( Human Interface Guidelines o HIG) son documentos para la creación de productos digitales que ofrecen los diseñadores y programadores un conjunto de recomendaciones para las interfaces de sus aplicaciones más intuitivas, fáciles de utilizar y coherentes entre ellas. La mayoría de este tipo de guías se limita a definir una apariencia común para las aplicaciones en un entorno particular.      
+Las guías de interfaz humana enumeran reglas de diseño muy específicas, algunas veces basadas en estudios de interacción humano-computadora y de usabilidad, y también en convenciones creadas por las restricciones de los diseñadores de la plataforma.
+
+    ii. ¿Qué información puedo encontrar aquí?      
+Toda la información detallada y recursos de interfaz de usuario para diseñar aplicaciones excelentes que se integran perfectamente con las plataformas de Apple.
+
+4. Entra a https://developer.apple.com/develop/ y contesta:
+
+    i. ¿Qué es Xcode? ¿Y cuál es la versión más nueva? (Si tienes Mac. Instálalo).      
+    Xcode11 es el entorno de desarrollo integrado (IDE) creado por Appple que trabaja de manera conjunta con Interface Builder (herramienta gráfica para crear interfaces de usuario) y que se puede descargar de manera gratuita desde la Mac App Store. Este conjunto de herramientas además incluye una colección de compiladores del proyecto GNU (GCC) y puede compilar código C, C++, Objective-C, Objective-C++, AppleScript y Java gracias a una gran gama de modelos de programación.
+
+    ii. ¿Para que plataformas puedo desarrollar aplicaciones?
+    Para iPad, Mac y iPhone.        
+
+    iii. ¿Qué es TestFlight?        
+    Es una plataforma que nos permite darle acceso a nuestros usuarios antes de que la aplicación sea publicada en el App Store o Google Play Store.
+    
